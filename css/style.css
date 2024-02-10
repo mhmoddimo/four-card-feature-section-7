@@ -86,7 +86,7 @@ header p {
     width: 90%;
     margin-right: auto;
 }
-.card .text h4 {
+.card .text h3 {
     font-size: 23px;
     color: var(--Very-Dark-Blue);
 }
